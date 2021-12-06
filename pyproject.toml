@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "drift-py"
+version = "0.1.0"
+description = "A python software developer kit for interacting with the Drift Protocol. The package can also be used for research purposes to simulate transactions and events on the protocol, battle-testing it in unique scenarios."
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.9,<4.0"
+anchorpy = "^0.4.5"
+borsh-construct = "^0.1.0"
+solana = "^0.19.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
