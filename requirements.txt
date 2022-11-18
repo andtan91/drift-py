@@ -35,7 +35,7 @@ frozenlist==1.2.0
 gunicorn==20.1.0
 h11==0.12.0
 httpcore==0.13.7
-httpx==0.18.2
+httpx==0.23.0
 idna==3.3
 inflection==0.5.1
 iniconfig==1.1.1
@@ -71,7 +71,7 @@ prompt-toolkit==3.0.23
 psutil==5.8.0
 ptyprocess==0.7.0
 py==1.11.0
-pycares==4.1.2
+pycares==4.2.0
 pycparser==2.21
 Pygments==2.10.0
 PyNaCl==1.4.0
