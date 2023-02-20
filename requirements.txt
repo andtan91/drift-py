@@ -20,7 +20,7 @@ charset-normalizer==2.0.8
 click==8.0.3
 construct==2.10.67
 construct-typing==0.5.2
-cryptography==36.0.0
+cryptography==39.0.1
 dash==2.0.0
 dash-core-components==2.0.0
 dash-html-components==2.0.0
