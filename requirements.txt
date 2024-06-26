@@ -2,7 +2,7 @@ aiodns==3.0.0
 aiohttp==3.8.1
 aiosignal==1.2.0
 anchorpy==0.4.3
-anyio==3.4.0
+anyio==4.4.0
 apischema==0.15.7
 appnope==0.1.2
 async-timeout==4.0.1
