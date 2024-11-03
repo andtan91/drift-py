@@ -101,6 +101,6 @@ urllib3==1.26.7
 visdcc==0.0.40
 wcwidth==0.2.5
 websockets==10.1
-Werkzeug==2.0.2
+Werkzeug==3.0.6
 yarl==1.7.2
 zstandard==0.16.0
